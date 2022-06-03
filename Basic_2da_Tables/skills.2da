@@ -1,0 +1,37 @@
+2DA V2.0
+
+       Label                     Name     Description Icon       Untrained KeyAbility ArmorCheckPenalty AllClassesCanUse Category MaxCR Constant                      HostileSkill 
+0      Acrobatics                16779674 344         isk_aniemp 1         DEX        1                 1                ****     1     SKILL_ANIMAL_EMPATHY          0            
+1      Craft                     16779675 344         isk_aniemp 1         CHA        0                 1                ****     1     SKILL_CRAFT                   0            
+2      Sense_motive              16779676 344         isk_aniemp 1         WIS        0                 1                ****     1     SKILL_SENSE_MOTIVE            0            
+3      Spellcraft                16779677 344         isk_aniemp 0         INT        0                 1                ****     1     SKILL_SPELLCRAFT              0            
+4      Heal                      16779678 ****        ****       1         WIS        0                 1                ****     ****  SKILL_HEAL                    ****         
+5      Diplomacy                 16779679 ****        ****       1         CHA        0                 1                ****     ****  SKILL_DIPLOMACY               ****         
+6      Disguise                  16779680 ****        ****       1         CHA        0                 1                ****     ****  SKILL_DISGUISE                ****         
+7      Bluff                     16779681 ****        ****       1         CHA        0                 1                ****     ****  SKILL_BLUFF                   ****         
+8      Escape_Artist             16779682 ****        ****       1         DEX        0                 1                ****     ****  SKILL_ESCAPE_ARTIST           ****         
+9      Perform                   16779683 ****        ****       1         CHA        0                 1                ****     ****  SKILL_PERFORM                 ****         
+10     Intimidate                16779684 ****        ****       1         CHA        0                 1                ****     ****  SKILL_INTIMIDATE              ****         
+11     Disable_Device            16779685 ****        ****       0         DEX        1                 1                ****     ****  SKILL_DISABLE_DEVICE          ****         
+12     Sleight_of_hand           16779686 ****        ****       0         DEX        1                 1                ****     ****  SKILL_SLEIGHT_OF_HAND         ****         
+13     Linguistics               16779687 ****        ****       1         INT        0                 1                ****     ****  SKILL_LINGUISTICS             ****         
+14     Ride                      16779688 ****        ****       1         DEX        1                 1                ****     ****  SKILL_RIDE                    ****         
+15     Swim                      16779689 ****        ****       1         STR        1                 1                ****     ****  SKILL_SWIM                    ****         
+16     Profession                16779690 ****        ****       0         WIS        0                 1                ****     ****  SKILL_PROFESSION              ****         
+17     Perception                16779691 ****        ****       1         WIS        0                 1                ****     ****  SKILL_PERCEPTION              ****         
+18     Knowledge_(arcana)        16779692 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_ARCANA        ****         
+19     Knowledge_(dungeoneering) 16779693 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_DUNGEONEERING ****         
+20     Knowledge_(geography)     16779694 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_GEOGRAPHY     ****         
+21     Knowledge_(history)       16779695 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_HISTORY       ****         
+23     Knowledge_(local)         16779696 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_LOCAL         ****         
+24     Knowledge_(nature)        16779697 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_NATURE        ****         
+25     Knowledge_(nobility)      16779698 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_NOBILITY      ****         
+26     Knowledge_(planes)        16779699 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_PLANES        ****         
+27     Knowledge_(religion)      16779700 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_RELIGION      ****         
+28     Knowledge_(engineering)   16779707 ****        ****       0         INT        0                 1                ****     ****  SKILL_KNOWLEDGE_ENGINEERING   ****         
+29     Stealth                   16779701 ****        ****       1         DEX        1                 1                ****     ****  SKILL_STEALTH                 ****         
+30     Survival                  16779702 ****        ****       1         WIS        0                 1                ****     ****  SKILL_SURVIVAL                ****         
+31     Appraise                  16779703 ****        ****       1         INT        0                 1                ****     ****  SKILL_APPRAISE                ****         
+32     Handle_Animal             16779704 ****        ****       0         CHA        0                 1                ****     ****  SKILL_HANDLE_ANIMAL           ****         
+33     Climb                     16779705 ****        ****       1         STR        1                 1                ****     ****  SKILL_CLIMB                   ****         
+34     Use_magic_device          16779706 ****        ****       0         CHA        0                 1                ****     ****  SKILL_USE_MAGIC_DEVICE        ****         
